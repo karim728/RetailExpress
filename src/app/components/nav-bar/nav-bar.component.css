@@ -1,0 +1,33 @@
+.nav{
+    display: flex;
+    width: 100%;
+    background-color: #EAE8FF;
+    padding: 20px;
+}
+
+.logo{
+    display: flex;
+    flex: 1;
+}
+
+.links{
+    display: flex;
+    flex: 1;
+}
+
+.tertiary{
+    display: flex;
+    flex: 1;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    list-style-type: none;
+}
